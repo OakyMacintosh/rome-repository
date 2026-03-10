@@ -1,6 +1,6 @@
 {
     "marketName" : "Motorola Moto G4 Play",
-    "types" : ["port"],
+    "types" : ["aosp"],
     "type" : "phone",
     "soc" : {
         "manufacturer" : "qc",
