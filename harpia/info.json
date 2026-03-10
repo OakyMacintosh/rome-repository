@@ -1,1 +1,11 @@
-//
+{
+    "marketName" : "Motorola Moto G4 Play", // Full market name
+    "types" : ["port"],
+    "type" : "phone",
+    "soc" : {
+        "manufacturer" : "qc", // "qc": "Qualcomm"; "mt": "MediaTek"
+        "displayName" : "Snapdragon 685", // SOC's market name
+        "model" : "SD6225" // Internal model name
+    },
+    "aliasOf": "sapphiren" // Add only in case of shared support, otherwise remove.
+}
