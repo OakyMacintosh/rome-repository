@@ -1,6 +1,6 @@
 # Guidelines for Rome Repo
 
-_Last updated 10th of March, 2026 - 15:02_
+_Last updated 10th of March, 2026 - 4:01PM_
 
 ## Device Requirements
 On par with the Rome app, this should only have ROMs for devices shipped with **Android 10+**, which I see as a good balance between extensiveness and overwhelmingness.
